@@ -1,0 +1,7 @@
+D:\vs\LOGINAND SIGN UP\obj\Debug\LOGINAND SIGN UP.csproj.AssemblyReference.cache
+D:\vs\LOGINAND SIGN UP\obj\Debug\LOGINAND SIGN UP.csproj.CoreCompileInputs.cache
+D:\vs\LOGINAND SIGN UP\bin\Debug\LOGINAND SIGN UP.exe.config
+D:\vs\LOGINAND SIGN UP\bin\Debug\LOGINAND SIGN UP.exe
+D:\vs\LOGINAND SIGN UP\bin\Debug\LOGINAND SIGN UP.pdb
+D:\vs\LOGINAND SIGN UP\obj\Debug\LOGINAND SIGN UP.exe
+D:\vs\LOGINAND SIGN UP\obj\Debug\LOGINAND SIGN UP.pdb
