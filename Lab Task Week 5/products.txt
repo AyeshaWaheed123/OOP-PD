@@ -1,0 +1,3 @@
+Milk,Grocery,2.5,50,10
+Apple,Fruit,1.2,30,5
+Shampoo,Other,5.0,20,5

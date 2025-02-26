@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATABASE STUFF\\PDWEEK 5 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\dl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:dl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\dl\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:dl\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\ui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:ui\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\ui\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:ui\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\bl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:bl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\ui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:ui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\dl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:dl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\dl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:dl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|d:\\database stuff\\pdweek 5 1\\bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D3E6F0-9940-41D7-B75C-5D38AB0D714F}|PDWEEK 5 1.csproj|solutionrelative:bl\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\DL\\Customer.cs",
+              "RelativeDocumentMoniker": "DL\\Customer.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\DL\\Customer.cs*",
+              "RelativeToolTip": "DL\\Customer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:44:11.644Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\DL\\Order.cs",
+              "RelativeDocumentMoniker": "DL\\Order.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\DL\\Order.cs*",
+              "RelativeToolTip": "DL\\Order.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:14:43.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\UI\\Customer.cs",
+              "RelativeDocumentMoniker": "UI\\Customer.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\UI\\Customer.cs*",
+              "RelativeToolTip": "UI\\Customer.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:44:22.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\BL\\Customer.cs",
+              "RelativeDocumentMoniker": "BL\\Customer.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\BL\\Customer.cs",
+              "RelativeToolTip": "BL\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:44:02.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\UI\\Product.cs",
+              "RelativeDocumentMoniker": "UI\\Product.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\UI\\Product.cs",
+              "RelativeToolTip": "UI\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:43:26.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\BL\\Admin.cs",
+              "RelativeDocumentMoniker": "BL\\Admin.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\BL\\Admin.cs",
+              "RelativeToolTip": "BL\\Admin.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:45:05.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\DL\\Admin.cs",
+              "RelativeDocumentMoniker": "DL\\Admin.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\DL\\Admin.cs",
+              "RelativeToolTip": "DL\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:45:13.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:40:55.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\DL\\Product.cs",
+              "RelativeDocumentMoniker": "DL\\Product.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\DL\\Product.cs*",
+              "RelativeToolTip": "DL\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:42:59.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\UI\\Admin.cs",
+              "RelativeDocumentMoniker": "UI\\Admin.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\UI\\Admin.cs",
+              "RelativeToolTip": "UI\\Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIA9wEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:45:22.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DATABASE STUFF\\PDWEEK 5 1\\BL\\Product.cs",
+              "RelativeDocumentMoniker": "BL\\Product.cs",
+              "ToolTip": "D:\\DATABASE STUFF\\PDWEEK 5 1\\BL\\Product.cs",
+              "RelativeToolTip": "BL\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:42:45.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

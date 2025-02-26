@@ -1,0 +1,64 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace week5_pd_1.UI
+{   
+  public static class UI
+    {
+        public static void ShowMainMenu()
+        {
+            Console.WriteLine("********** UAMS **********");
+            Console.WriteLine("1. Add Student");
+            Console.WriteLine("2. Add Degree Program");
+            Console.WriteLine("3. Add Subject");
+            Console.WriteLine("4. Register Student in Degree Program");
+            Console.WriteLine("5. Register Subjects for Student");
+            Console.WriteLine("6. View Registered Students");
+            Console.WriteLine("7. View Degree Programs");
+            Console.WriteLine("8. Exit");
+        }
+
+        public static Student TakeStudentInput()
+        {
+            Console.Write("Enter Student Name: ");
+            string name = Console.ReadLine();
+            Console.Write("Enter Student Age: ");
+            int age = int.Parse(Console.ReadLine());
+            Console.Write("Enter FSC Marks: ");
+            float fscMarks = float.Parse(Console.ReadLine());
+            Console.Write("Enter ECAT Marks: ");
+            float ecatMarks = float.Parse(Console.ReadLine());
+
+            return new Student(name, age, fscMarks, ecatMarks);
+        }
+
+        public static DegreeProgram TakeDegreeProgramInput()
+        {
+            Console.Write("Enter Degree Program Title: ");
+            string title = Console.ReadLine();
+            Console.Write("Enter Duration (Years): ");
+            int duration = int.Parse(Console.ReadLine());
+            Console.Write("Enter Available Seats: ");
+            int availableSeats = int.Parse(Console.ReadLine());
+
+            return new DegreeProgram(title, duration, availableSeats);
+        }
+
+        public static Subject TakeSubjectInput()
+        {
+            Console.Write("Enter Subject Code: ");
+            string code = Console.ReadLine();
+            Console.Write("Enter Credit Hours: ");
+            int creditHours = int.Parse(Console.ReadLine());
+            Console.Write("Enter Type (Mandatory/Elective): ");
+            string type = Console.ReadLine();
+
+            return new Subject(code, creditHours, type);
+        }
+    }
+}
+
+}
